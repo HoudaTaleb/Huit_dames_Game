@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Huit Dames</string>
+
+    <string name="Perdu">Vous avez perdu ! Il ne reste plus de place valide</string>
+    <string name="Echec">Alerte ! </string>
+    <string name="Fermer">Fermer</string>
+    <string name="Quitter">Quitter</string>
+    <string name="Partie_finie">Fin de la partie</string>
+    <string name="Rejouer">Rejouer</string>
+    <string name="gagner">Bravo! Vous avez gagné!</string>
+    <string name="button">Passer au jeu</string>
+    <string name="jouer">Jouer 8 dames</string>
+</resources>
